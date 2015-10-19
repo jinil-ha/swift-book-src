@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>userAgent</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>iPhone 6</string>
+			<key>string</key>
+			<string>Mozilla/6.0(iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/536.26(KHTML, like Gecko) Version/8.0 Mobile/10A5376e Safari/8536.25</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iPad </string>
+			<key>string</key>
+			<string>Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/11A137 Safari/600.1.4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mac</string>
+			<key>string</key>
+			<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A</string>
+		</dict>
+	</array>
+</dict>
+</plist>
